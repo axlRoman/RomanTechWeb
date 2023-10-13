@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <producto>
+        <imagen>img/productos/TS-ASUS-90LM00E1-B013B0-1.jpg</imagen>
+        <nombre>Monitor ASUS VN279Q LED 27"</nombre>
+        <sku>90LM00E1-B013B0</sku>
+        <descripcion>ASUS VN279Q. Diagonal de la pantalla: 68,6 cm (27"), Resolución de la pantalla: 1920 x 1080 Pixeles, Tipo HD: Full HD, Tiempo de respuesta: 5 ms, Relación de aspecto nativa: 16:9, Ángulo de visión, horizontal: 178°, Ángulo de visión, vertical: 178°. Altavoces incorporados. montaje VESA. Certificado Energy Star. Color del producto: Negro</descripcion>
+        <caracteristicas>
+        Características:
+        Diagonal de la pantalla: 27pulg.
+        Tipo HD: Full HD
+        Resolución: 1920 x 1080 Pixeles
+        Tiempo de respuesta: 5 ms
+        Cantidad de puertos HDMI: 1
+        Altavoces incorporados: si
+        Color del producto: Negro
+        </caracteristicas>
+        <precio>4619.00</precio>
+        <dcto>no</dcto>
+    </producto>
+    <producto>
+        <imagen>img/productos/TS-GIGABYTE-GV-N1050OC-2GD-1.jpg</imagen>
+        <nombre>Tarjeta de Video Gigabyte NVIDIA GeForce GTX 1050 OC</nombre>
+        <sku>GV-N1050OC-2GD</sku>
+        <descripcion>Game Ready: Rendimiento extraodinario. Experiencias de cambio de juago. perfectamente optimizada. Game Ready con las tarjetas graficas de la serie GeForce GTX10.
+        Ultima Arquitectura: Experimente un rendimiento increible en juegos de alta definicion, impulsados por NVIDIA Pascal, la arquitectura de GPU mas avanzada jamas creada.
+        Idonea Para el Gaming: Rapido y facil acceso a los controladores de NVIDIA Game Ready, permite a cada jugador transformar su PC en un verdadero equipo de juego y asumir los ultimos titulos en toda su gloria</descripcion>
+        <caracteristicas>
+        Características:
+        Frecuencia del procesador: 1404 MHz
+        Frecuencia boost: 1518 MHz
+        Cantidad de puertos HDMI: 1
+        Cantidad de DisplayPorts: 1
+        </caracteristicas>
+        <precio>3080.00</precio>
+        <dcto>no</dcto>
+    </producto>
+    <producto>
+        <imagen>img/productos/TS-ASUS-90YV09X0-M0NA00-1.jpg</imagen>
+        <nombre>Tarjeta de Video ASUS NVIDIA GeForce GTX 1060 Dual OC</nombre>
+        <sku>90YV09X0-M0NA00</sku>
+        <descripcion>El punto perfecto del rendimiento
+    La ASUS Dual series GeForce GTX 1060 está equipada con ventiladores Wing-Blade patentados, un diseño que aumenta el flujo de aire y la presión estática sobre el disipador un 105%. Asimismo, la exclusiva tecnología Auto-Extreme de ASUS con componentes Super Alloy asegura la máxima fiabilidad bajo cualquier escenario de uso; GPU Tweak II con XSplit Gamecaster permite ajustar el rendimiento y retransmitir las partidas en vivo. Además, esta gráfica incorpora un diseño a juego con la placa ASUS X99-A II.</descripcion>
+        <caracteristicas>
+        Características:
+        Frecuencia del procesador: 1569 MHz
+        Frecuencia boost: 1785 MHz
+        Núcleos CUDA: 1280
+        Cantidad de puertos HDMI: 2
+        Cantidad de DisplayPorts: 2
+        </caracteristicas>
+        <precio>9679.00</precio>
+        <dcto>no</dcto>
+    </producto>
+    <producto>
+        <imagen>img/productos/TS-GIGABYTE-H370AORUSGAMING3-1.jpg</imagen>
+        <nombre>Tarjeta Madre AORUS ATX H370 GAMING 3</nombre>
+        <sku>H370 AORUS GAMING 3</sku>
+        <descripcion>Las placas base de la serie AORUS utilizan un diseño MOSFET PWM + Lower RDS (on) de 8 + 2 fases para admitir las últimas CPU Intel® Core ™ de 6 núcleos al ofrecer una precisión increíble en la entrega de potencia a los componentes más sensibles y sensibles a la energía de la placa base. como la entrega del rendimiento mejorado del sistema y la máxima escalabilidad del hardware. </descripcion>
+        <caracteristicas>
+        Características:
+        Familia de procesador: Intel
+        Socket de procesador: LGA1151
+        Circuito integrado: Intel H370
+        Memoria interna, máxima: 64 GB
+        Tipo de memoria: DDR4-SDRAM
+        </caracteristicas>
+        <precio>2720.00</precio>
+        <dcto>si</dcto>
+    </producto>
+    <producto>
+        <imagen>img/productos/TS-INTEL-BX80684I59600K-1.jpg</imagen>
+        <nombre>Procesador Intel Core i5-9600K</nombre>
+        <sku>BX80684I59600K</sku>
+        <descripcion>Intel i5-9600K, Core. Familia de procesador: Intel Core i5-9xxx, Frecuencia del procesador: 3,7 GHz, Socket de procesador: LGA 1151 (Zócalo H4). Canales de memoria que admite el procesador: Dual, Memoria interna máxima que admite el procesador: 64 GB, Tipos de memoria que admite el procesador: DDR4-SDRAM. Modelo de adaptador gráfico incorporado: Intel® UHD Graphics 630, Memoria máxima de adaptador de gráfico incorporado: 64 GB, Frecuencia base de gráficos incorporada: 350 MHz. Potencia de diseño térmico (TDP): 95 W. Configuraciones PCI Express: 1x16,1x8+2x4,2x8, Set de instrucciones soportadas: AVX 2.0,SSE4.1,SSE4.2, Escalabilidad: 1S</descripcion>
+        <caracteristicas>
+        Características:
+        Familia de procesador: Intel Core i5-9xxx
+        Modelo del procesador: i5-9600K
+        Socket de procesador: LGA1151
+        Número de núcleos: 6
+        </caracteristicas>
+        <precio>5600.00</precio>
+        <dcto>no</dcto>
+    </producto>
+    <producto>
+        <imagen>img/productos/TS-INTEL-BX80684I79700K-1.jpg</imagen>
+        <nombre>Procesador Intel Core i7-9700K</nombre>
+        <sku>BX80684I79700K</sku>
+        <descripcion>Intel i7-9700K, Core. Familia de procesador: Intel Core i7-9xxx, Frecuencia del procesador: 3,6 GHz, Socket de procesador: LGA 1151 (Zócalo H4). Canales de memoria que admite el procesador: Dual, Memoria interna máxima que admite el procesador: 64 GB, Tipos de memoria que admite el procesador: DDR4-SDRAM. Modelo de adaptador gráfico incorporado: Intel® UHD Graphics 630, Memoria máxima de adaptador de gráfico incorporado: 64 GB, Salidas compatibles de adaptador gráfico incorporado: DisplayPort,Embedded DisplayPort (eDP),HDMI. Potencia de diseño térmico (TDP): 95 W. Configuraciones PCI Express: 1x16,1x8+2x4,2x8, Set de instrucciones soportadas: AVX 2.0,SSE4.1,SSE4.2, Escalabilidad: 1S</descripcion>
+        <caracteristicas>
+        Características:
+        Familia de procesador: Intel Core i7-9xxx
+        Modelo del procesador: i7-9700K
+        Frecuencia del procesador: 3,6 GHz
+        Socket de procesador: LGA1151
+        Número de núcleos: 8
+        </caracteristicas>
+        <precio>9529.00</precio>
+        <dcto>no</dcto>
+    </producto>
+    <producto>
+        <imagen>img/productos/TS-NZXT-CA-H700B-BR-1.jpg</imagen>
+        <nombre>Gabinete NZXT H700 con Ventana, Midi-Tower</nombre>
+        <sku>CA-H700B-BR</sku>
+        <descripcion>NZXT H700. Factor de forma: Midi-Tower, Tipo: PC, Material: SECC, Acero, Vidrio templado. Diámetro de ventiladores frontales soportados: 120,140 mm, Diámetro de ventiladores traseros soportados: 120,140 mm, Diámetros de ventiladores superiores soportados: 120,140 mm. Tamaños de disco duro soportados: 2.5,3.5". Ancho: 230 mm, Profundidad: 494 mm, Altura: 516 mm</descripcion>
+        <caracteristicas>
+        Características:
+        Factor de forma: Midi-Tower
+        Cristal Templado: Si
+        Cantidad de puertos USB 2.0: 2
+        Fuente de alimentación incluida: No
+        Disco duro soportado: 2.5pulg.
+        </caracteristicas>
+        <precio>2489.00</precio>
+        <dcto>no</dcto>
+    </producto>
+    <producto>
+        <imagen>img/productos/TS-SEAGATE-ST4000DM004-1.jpg</imagen>
+        <nombre>Disco Duro Interno Seagate Barracuda 3.5'', 4TB, SATA III</nombre>
+        <sku>ST4000DM004</sku>
+        <descripcion>Unidad de disco duro BarraCuda de 4 TB
+    Versatilidad impresionante:
+    Versátiles y fiables, las feroces y nuevas unidades BarraCuda de Seagate se inspiran en el pasado pero están listas para el futuro. Las unidades BarraCuda son una forma económica de manejar todas sus necesidades de PC: trabajo, juego, almacenamiento de películas y música, y más.
+    Usos idóneos:
+    PC de sobremesa o todo en uno
+    Servidores domésticos
+    Dispositivos de almacenamiento con conexión directa (DAS, por sus siglas en inglés) de gama básica</descripcion>
+        <caracteristicas>
+        Características:
+        Capacidad: 4000 GB
+        Velocidad de rotación: 5400 RPM
+        Tamaño de disco duro: 3.5pulg.
+        Interfaz: Serial ATA III
+        Tamaño de búfer: 256 MB
+        </caracteristicas>
+        <precio>1949.00</precio>
+        <dcto>no</dcto>
+    </producto>
+    <producto>
+        <imagen>img/productos/TS-SAMSUNG-MZ-76E250E-3.jpg</imagen>
+        <nombre>SSD Samsung 860 EVO, 250GB, SATA III, 2.5''</nombre>
+        <sku>MZ-76E250E</sku>
+        <descripcion>Samsung 860 EVO. SDD, capacidad: 250 GB, Factor de forma de disco SSD: 2.5", Velocidad de lectura: 550 MB/s, Velocidad de escritura: 520 MB/s, Velocidad de transferencia de datos: 6 Gbit/s, Componente para: PC/ordenador portátil</descripcion>
+        <caracteristicas>
+        Características:
+        Capacidad: 250 GB
+        Interface: Serial ATA III
+        Velocidad de lectura: 550 MB/s
+        Velocidad de escritura: 520 MB/s
+        </caracteristicas>
+        <precio>1539.00</precio>
+        <dcto>no</dcto>
+    </producto>
+    <producto>
+        <imagen>img/productos/TS-LOGITECH-920-008860-1.jpg</imagen>
+        <nombre>Teclado Gamer Logitech G513 RGB</nombre>
+        <sku>920-008860</sku>
+        <descripcion>G513 es un teclado para juegos de alto desempeño, con una velocidad de respuesta de 1 ms y la posibilidad de elegir entre interruptores mecánicos avanzados: Romer-G Táctil, Romer-G Lineal o GX Blue. El espectro RGB completo, combinado con la tecnología LIGHTSYNC, mejora la experiencia de juego con iluminación. La aleación de aluminio crea un chasis extremadamente compacto con un atractivo acabado metálico bruñido.</descripcion>
+        <caracteristicas>
+        Características:
+        Interfaz del dispositivo: USB
+        Tecnología de conectividad: Alámbrico
+        Formato del teclado: Estándar
+        Diseño de teclado: QWERTY
+        Longitud de cable: 1,8 m
+        Retroiluminación: Si
+        </caracteristicas>
+        <precio>2149.00</precio>
+        <dcto>no</dcto>
+    </producto>
+</catalogo>

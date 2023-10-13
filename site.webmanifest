@@ -1,0 +1,23 @@
+{
+    "icons": [
+    {
+        "src": "apple-touch-icon-152x152-precomposed.png",
+        "sizes": "152x152",
+        "type": "image/png"
+    },
+    {
+        "src": "apple-touch-icon-120x120-precomposed.png",
+        "sizes": "120x120",
+        "type": "image/png"
+    },
+    {
+        "src": "favicon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+    },
+    {
+        "src": "favicon-64x64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+    }]
+}
